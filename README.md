@@ -43,4 +43,4 @@ This project focuses on analysing sales performance using Power BI. The dashboar
 - `02_PowerBI_Project/` – Power BI dashboard file.
 - `03_Documentation/` – Project report in PDF format.
 - `04_Dashboard_Screenshots/` – Dashboard screenshots.
-- `05_Datasets/` – Dataset files.
+
