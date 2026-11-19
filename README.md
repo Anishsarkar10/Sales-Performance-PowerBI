@@ -46,4 +46,5 @@ This project focuses on analysing sales performance using Power BI. The dashboar
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](04_Dashboard_Screenshots/Dashboard.png)
+<img width="725" height="533" alt="image" src="https://github.com/user-attachments/assets/27622c0d-708c-4315-89e1-820cd8592e21" />
+
