@@ -1,1 +1,1 @@
-Assignment documents is uploaded here.
+This folder contains the Assignment documents.
